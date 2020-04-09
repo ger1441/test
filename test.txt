@@ -1,6 +1,5 @@
 Primer párrafo
-Segundo párrafo corregido
-Tercer párrafo
-Cuarto párrafo editado
-Quinto párrafo de nuevo
-Sexto párrafo
+Segundo párrafo
+
+Se quitaron los parrafos:
+tercero, cuarto, quinto y sexto
